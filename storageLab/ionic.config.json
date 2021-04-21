@@ -1,0 +1,7 @@
+{
+  "name": "storageLab",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
